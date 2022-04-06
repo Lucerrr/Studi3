@@ -18,4 +18,5 @@ int main(){
 	output.cetak();
 
 	return 0;
+	
 }
